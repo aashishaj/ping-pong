@@ -1,13 +1,3 @@
-/*
-* Author: Denys Dovhan <email@denysdovhan.com>
-* Date: 06.05.2014
-* Version: 1.0.0
-* Last modified: 07.05.2014
-*
-* Purpose: Ping-pong on JavaScript.
-* Known Bugs: not yet seen
-*/
-
 
 /**
  * Initializes variables.
